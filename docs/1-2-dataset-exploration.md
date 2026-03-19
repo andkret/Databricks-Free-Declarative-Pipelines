@@ -12,16 +12,12 @@ You will receive a verification code via email that you need to type in to concl
 
 Next, you will be prompted to select an option for what you are going to use Databricks for. For this course, you can select 'For personal use' which will be free forever but is limited to core features, smaller warehouse sizes and compute.
 
-![Choose between free or work edition](/images/1-2/free-or-work-edition.png)
-
 > [!CAUTION]
 > Commercial usage of the free edition is prohibited.
 
 Finish the final step of the account creation by naming your account and set your location before you continue.
 
 After a quick setup, you should see the default Databricks UI.
-
-![Account setup done](/images/1-2/databricks-ui.png)
 
 ## Upload The Dataset
 
