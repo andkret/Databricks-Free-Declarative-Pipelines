@@ -1,5 +1,15 @@
 # Spark Declarative Pipelines and Lakeflow Designer on Databricks
 
+Learn how to build production-grade data pipelines on **Databricks Free Edition** using **Declarative Pipelines** and the **Lakeflow Designer**. This hands-on course covers everything from Delta Lake fundamentals and Unity Catalog governance to building a complete **medallion architecture** (Bronze, Silver, Gold) pipeline — all with SQL and no infrastructure setup required.
+
+You'll work with a real e-commerce dataset of 500,000+ transactions, use **Databricks AI tools** (Assistant, Genie) to accelerate development, and extend the pipeline with **streaming data from AWS Kinesis**. Ideal for data engineers and analysts who want a practical, end-to-end introduction to modern lakehouse pipelines on Databricks.
+
+**Ready to follow along? [Sign up for Databricks Free Edition here](https://signup.databricks.com/?provider=DB_FREE_TIER&utm_source=youtube&utm_medium=video&utm_campaign=LearnDataEngineering) — no credit card required.**
+
+---
+
+## Contents
+
 1. Orientation, Setup, and Dataset Exploration
     1. [Course Overview & What You Will Build](/docs/1-1-course-overview.md)
     1. [Getting Started in Databricks and Exploring the Dataset](/docs/1-2-dataset-exploration.md)

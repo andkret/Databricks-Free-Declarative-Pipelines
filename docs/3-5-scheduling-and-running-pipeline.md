@@ -1,4 +1,4 @@
-# 4.2 Scheduling and Running the Pipeline
+# 3.5 Scheduling and Running the Pipeline
 
 So far, we support exactly one Gold layer table. In chapter 4, we want to extend it to support one more use case and build that with the help of Lakeflow Designer. 
 

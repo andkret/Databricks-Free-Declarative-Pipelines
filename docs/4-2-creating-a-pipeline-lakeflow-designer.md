@@ -1,4 +1,4 @@
-# 4.3 Updating the Pipeline Inside Lakeflow Designer
+# 4.2 Updating the Pipeline Inside Lakeflow Designer
 
 So now it's time to finally look into Lakeflow Designer. In order to do that, let's look at a imaginary use case.
 
